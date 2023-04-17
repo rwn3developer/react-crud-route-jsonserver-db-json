@@ -1,0 +1,4 @@
+npm i axios install karvu
+npm i react-router-dom install karvu
+npm i json-server install karvu
+npx json-server --watch db.json (server start karva maate)
